@@ -21,7 +21,7 @@ $ npm run start
 
 ````
 
-__Bild__
+__Build__
 
 ```
 $ yarn build
